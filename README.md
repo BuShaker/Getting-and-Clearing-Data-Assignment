@@ -6,14 +6,11 @@ Goal of the Project
 	•	Analysis R Script
 
 
-Review Criteria
-Goal			Item	
-Analysis R Script	run_analysis.R 
-Tidy Data Set		Clean Data Set
-Github Repo		Repo
-Cookbook		CodeBook.md
-README			ReadingItNow
-Rpo Link
+Items		Item	
+Analysis R Script: run_analysis.R 
+Tidy Data Set: tidyData.txt
+Cookbook: CodeBook.md
+README.md
 
 Author
 Modafar Akhoirshieda
