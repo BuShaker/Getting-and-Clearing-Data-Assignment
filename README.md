@@ -7,31 +7,15 @@ Goal of the Project
 
 
 Review Criteria
-Goal
-Item
-Link to Item
-Analysis R Script
-run_analysis.R
-R Script Link
-Tidy Data Set
-Clean Data Set
-Data Set Link
-Github Repo
-Repo
-Repo Link
-Cookbook
-CodeBook.md
-Repo Link
-README
-ReadingItNow
-Repo Link
+Goal			Item	
+Analysis R Script	run_analysis.R 
+Tidy Data Set		Clean Data Set
+Github Repo		Repo
+Cookbook		CodeBook.md
+README			ReadingItNow
+Rpo Link
 
-Contributors
-FirstName
-LastName
-Modafar
-Akhoirshieda
-Your First Name
-Your Last Name
-License
+Author
+Modafar Akhoirshieda
+
 Anyone may contribute after this assignment is turned in and graded.
